@@ -1,7 +1,7 @@
 # Projeto Previsão de UTI para Pacientes com Covid-19
  <img src="https://img.olhardigital.com.br/wp-content/uploads/2019/12/20191219064913-1207x450.jpg">
 
-# Visão geral do projeto:
+## Visão geral do projeto:
 
 - 1. Introdução
 - 2. Descrição dos Dados
