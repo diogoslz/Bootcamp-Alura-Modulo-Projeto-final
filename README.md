@@ -4,21 +4,21 @@
 
 # Visão geral do projeto:
 
-- Introdução
-- Descrição dos Dados
-- Analise Exploratória
-   - Importação de Bibliotecas
-   3.2. Carregamento dos Dados
-   3.3. Preenchendo Dados Faltantes
-   3.4. Levantamento de Hipóteses
-   3.5. Análise
-   3.5. Seleção de Dados para Previsão
-   3.6. Análise (Parte 2)
-   3.7. Conclusões
-4. Desenvolvimento de Modelo Preditivo
-   4.1. Importando bibliotecas
-   4.2. Engenharia de recursos
-   4.3. Separação dos dados
-   4.4. Treinamento do Modelo
-5. Conclusões
-6. Referências
+- 1. Introdução
+- 2. 1Descrição dos Dados
+- 3. Analise Exploratória
+   - 3.1 Importação de Bibliotecas
+   - 3.2. Carregamento dos Dados
+   - 3.3. Preenchendo Dados Faltantes
+   - 3.4. Levantamento de Hipóteses
+   - 3.5. Análise
+   - 3.6. Seleção de Dados para Previsão
+   - 3.7. Análise (Parte 2)
+   - 3.8. Conclusões
+- 4. Desenvolvimento de Modelo Preditivo
+   - 4.1. Importando bibliotecas
+   - 4.2. Engenharia de recursos
+   - 4.3. Separação dos dados
+   - 4.4. Treinamento do Modelo
+- 5. Conclusões
+- 6. Referências
