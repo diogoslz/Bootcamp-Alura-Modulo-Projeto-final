@@ -36,3 +36,40 @@ Conforme falado anteriormente, o dataset que utilizaremos para desenvolvimento d
 - Doenças anteriores agrupadas de pacientes (09 colunas)
 - Resultados de sangue (36 colunas)
 - Sinais vitais (06 colunas)
+
+## 3. Analise Exploratória
+
+
+<b>Informações demográficas do paciente (03 colunas):</b>
+- <b>Idade Acima de 65 Anos (AGE_ABOVE65)</b>
+- <b>Faixa Etária (AGE_PERCENTIL)</b>
+- <b>[Genêro](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19/discussion/164019) (GENDER)</b>
+    0: Masculino
+    1: Feminina
+
+<b>Doenças anteriores agrupadas de pacientes (09 colunas):</b>
+- <b>Grupo de Doenças 1 (DISEASE GROUPING 1)</b>
+- <b>Grupo de Doenças 2 (DISEASE GROUPING 2)</b>
+- <b>Grupo de Doenças 3 (DISEASE GROUPING 3)</b>
+- <b>Grupo de Doenças 4 (DISEASE GROUPING 4)</b>
+- <b>Grupo de Doenças 5 (DISEASE GROUPING 5)</b>
+- <b>Grupo de Doenças 6 (DISEASE GROUPING 6)</b>
+- <b>Hipertensão (HTN)</b>
+- <b>Imunocomprometido (IMMUNOCOMPROMISED)</b>
+- <b>Outros (OTHER)</b>
+
+<b>Sinais vitais (6 colunas):</b> 
+- <b>Saturação do Oxigênio (OXYGEN_SATURATION)</b>; 
+- <b>Frequência Respiratória (RESPIRATORY_RATE)</b>;
+- <b>Temperatura (TEMPERATURE)</b>;
+- <b>Pressão Sistólica (BLOODPRESSURE_SISTOLIC);</b>
+- <b>Pressão Diatolica (BLOODPRESSURE_DIASTOLIC);</b>.
+- <b>Frequência Cardíaca (HEART_RATE);</b> 
+
+<b>Exames laboratoriais (36 colunas):</b>
+
+- <b>Glicose (GLUCOSE)</b>
+- <b>Linfócitos (LINFOCITOS)</b>
+- <b>PCR</b>
+- <b>Creatinina (CREATININ)</b>
+- ETC...
