@@ -5,7 +5,7 @@
 # Visão geral do projeto:
 
 - 1. Introdução
-- 2. 1Descrição dos Dados
+- 2. Descrição dos Dados
 - 3. Analise Exploratória
    - 3.1 Importação de Bibliotecas
    - 3.2. Carregamento dos Dados
