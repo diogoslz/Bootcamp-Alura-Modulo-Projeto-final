@@ -22,6 +22,17 @@
 - 5. Conclusões
 - 6. Referências
 
-# 1. Introdução
+## 1. Introdução
 
 Este projeto de ciência de dados tem como objetivo desenvolver um modelo preditivo para detectar<b> quais pacientes precisarão ser admitidos na UTI</b>, a partir dos dados clínicos individuais do histórico de pacientes atendidos com <b>COVID-19</b>. O dados que serão utilizados neste projeto foram disponilizados pelo <b>Hospital Sírio Libanês - São Paulo e Brasília</b> no Kaggle (plataforma de competição de ciência de dados muito conhecida). Este modelo apoiará o hospital na organização e otimização quanto à disponibilidade de leitos para pacientes com COVID-19. Desta forma, a remoção e transferência deste(a) paciente pode ser organizada antecipadamente, evitando a ruptura, e assim, ajudando a <b>salvar vidas</b>.
+
+## 2. Descrição dos Dados
+
+Conforme falado anteriormente, o dataset que utilizaremos para desenvolvimento do modelo são dados clinícos individualizados de pacientes atendidos com COVID-19, disponbilizado pelo <b>Hospital Sírio Libanês</b>. E podemos baixar no portal do Kaggle neste [link](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19).
+
+#### <b>Características dos Dados:</b>
+
+- Informações demográficas do paciente (03 colunas)
+- Doenças anteriores agrupadas de pacientes (09 colunas)
+- Resultados de sangue (36 colunas)
+- Sinais vitais (06 colunas)
