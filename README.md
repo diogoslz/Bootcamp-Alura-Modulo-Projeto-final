@@ -71,7 +71,7 @@ Nesta etapa, removemos todos os pacientes que foram direto para a UTI na primeir
  
    #### - 3.8. Conclusões
  
- Na conclusão, respondemos as hipóteses levantadas, através da análise exploratória.
+ Respondemos as hipóteses levantadas, através da análise exploratória.
  
 ### - 4. Desenvolvimento de Modelo Preditivo
    #### - 4.1. Importando bibliotecas
