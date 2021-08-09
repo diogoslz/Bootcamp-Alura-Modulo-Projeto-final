@@ -58,12 +58,12 @@ Levantamos  algumas hipóteses de como a evolução do quadro clínico de pacien
  
    #### - 3.5. Análise
  
- Analisamos as chances por: **Faixa Etária, Genêro e Grupos de Doenças de serem internadas na UTI no período das janelas.
+ Analisamos as chances por: Faixa Etária, Genêro e Grupos de Doenças de serem internadas na UTI no período das janelas.
  Também analisamos as correlações entre as variáveis, utilizando o médodo `corr` em nosso dataframe e plotando com `heatmap` e percebemos fortes correlações entre os variáveis expandidas.
  
    #### - 3.6. Seleção de Dados para Previsão
 
-Nesta etapa, removemos todos os pacientes que foram **direto para a UTI na primeira janela**. Em seguida, criamos um método para buscar em **todas as janelas de que o paciente foi para a UTI e preenchemos com esta informação a linha da primeira **janela**. Como isso, selecionamos somente os IDs dos pacientes na **janela 0-2** e **ICU igual a 1**.
+Nesta etapa, removemos todos os pacientes que foram direto para a UTI na primeira janela. Em seguida, criamos um método para buscar em todas as janelas de que o paciente foi para a UTI e preenchemos com esta informação a linha da primeira janela. Como isso, selecionamos somente os IDs dos pacientes na janela 0-2 e ICU igual a 1.
  
    #### - 3.7. Análise (Parte 2)
  
@@ -88,8 +88,8 @@ Nesta etapa, removemos todos os pacientes que foram **direto para a UTI na prime
  
    #### - 4.4. Treinamento do Modelo
 
-Treinamos e testamos com 5 algoritmos de classificação: Regressão Logística (LogisticRegression), KNN (KNeighborsClassifier), Foresta Aleatória (RandomForestClassifier), Árvore de Decisão (DecisionTreeClassifier) e o Gradient Boosting (XGBClassifier). e analisamos as métricas, comparamos e analisamos qual o modelo trouxe melhores resultados para resolver o nosso problema. 
+Reduzimos o máximo do efeito da aletóriedade da divisão dos dados pelo método `train_teste_split`, substituindo-o pelo Cross Validation. A partir disso, treinamos, testamos e validamos 5 algoritmos de classificação: Regressão Logística (LogisticRegression), KNN (KNeighborsClassifier), Foresta Aleatória (RandomForestClassifier), Árvore de Decisão (DecisionTreeClassifier) e o Gradient Boosting (XGBClassifier). Em seguida, obtivemos os relatórios das métricas, com eles, analisamos os resultados das previsões com os dados de testes gerados pelos modelos preditivos. 
  
 ### - 5. Conclusões
  
- 
+ Escolhemos o melhor modelo preditivo a partir dos resultados obtidos das métricas durante do desenvolvimento do projeto.
