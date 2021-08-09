@@ -6,7 +6,7 @@
 - 1. Introdução
 - 2. Descrição dos Dados
 - 3. Analise Exploratória
-   - 3.1 Importação de Bibliotecas
+   - 3.1  Importação de Bibliotecas
    - 3.2. Carregamento dos Dados
    - 3.3. Preenchendo Dados Faltantes
    - 3.4. Levantamento de Hipóteses
@@ -38,37 +38,16 @@ Conforme falado anteriormente, o dataset que utilizamos para desenvolvimento do 
 - Sinais vitais (06 colunas)
 
 ## 3. Analise Exploratória
-
-<b>Informações demográficas do paciente (03 colunas):</b>
-- <b>Idade Acima de 65 Anos (AGE_ABOVE65)</b>
-- <b>Faixa Etária (AGE_PERCENTIL)</b>
-- <b>[Genêro](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19/discussion/164019) (GENDER)</b>
-    0: Masculino
-    1: Feminina
-
-<b>Doenças anteriores agrupadas de pacientes (09 colunas):</b>
-- <b>Grupo de Doenças 1 (DISEASE GROUPING 1)</b>
-- <b>Grupo de Doenças 2 (DISEASE GROUPING 2)</b>
-- <b>Grupo de Doenças 3 (DISEASE GROUPING 3)</b>
-- <b>Grupo de Doenças 4 (DISEASE GROUPING 4)</b>
-- <b>Grupo de Doenças 5 (DISEASE GROUPING 5)</b>
-- <b>Grupo de Doenças 6 (DISEASE GROUPING 6)</b>
-- <b>Hipertensão (HTN)</b>
-- <b>Imunocomprometido (IMMUNOCOMPROMISED)</b>
-- <b>Outros (OTHER)</b>
-
-<b>Sinais vitais (6 colunas):</b> 
-- <b>Saturação do Oxigênio (OXYGEN_SATURATION)</b>; 
-- <b>Frequência Respiratória (RESPIRATORY_RATE)</b>;
-- <b>Temperatura (TEMPERATURE)</b>;
-- <b>Pressão Sistólica (BLOODPRESSURE_SISTOLIC);</b>
-- <b>Pressão Diatolica (BLOODPRESSURE_DIASTOLIC);</b>.
-- <b>Frequência Cardíaca (HEART_RATE);</b> 
-
-<b>Exames laboratoriais (36 colunas):</b>
-
-- <b>Glicose (GLUCOSE)</b>
-- <b>Linfócitos (LINFOCITOS)</b>
-- <b>PCR</b>
-- <b>Creatinina (CREATININ)</b>
-- ETC...
+### Carregamento dos Dados
+   #### - 3.3. Preenchendo Dados Faltantes
+   #### - 3.4. Levantamento de Hipóteses
+   #### - 3.5. Análise
+   #### - 3.6. Seleção de Dados para Previsão
+   #### - 3.7. Análise (Parte 2)
+   #### - 3.8. Conclusões
+### - 4. Desenvolvimento de Modelo Preditivo
+   #### - 4.1. Importando bibliotecas
+   #### - 4.2. Engenharia de recursos
+   #### - 4.3. Separação dos dados
+   #### - 4.4. Treinamento do Modelo
+### - 5. Conclusões
