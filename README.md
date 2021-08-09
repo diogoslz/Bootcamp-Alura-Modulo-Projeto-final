@@ -67,7 +67,7 @@ Nesta etapa, removemos todos os pacientes que foram **direto para a UTI na prime
  
    #### - 3.7. Análise (Parte 2)
  
- Analisamos as chances por: **Faixa Etária, Gênero e Grupos de Doenças de serem internadas na UTI por pacientes para repondermos as hipoteses levantadas.
+ Analisamos as chances por: Faixa Etária, Gênero e Grupos de Doenças de serem internadas na UTI por pacientes para repondermos as hipoteses levantadas.
  
    #### - 3.8. Conclusões
  
@@ -76,17 +76,20 @@ Nesta etapa, removemos todos os pacientes que foram **direto para a UTI na prime
 ### - 4. Desenvolvimento de Modelo Preditivo
    #### - 4.1. Importando bibliotecas
  
- Importamos as bibliotecas necessário para desenvolvido do modelo preditivo.
+ Importamos as bibliotecas necessárias para desenvolvido do modelo preditivo.
  
    #### - 4.2. Engenharia de recursos
  
- utilizamos o **LabelEncoder do sklearn**, para transformar a variável categóriga **AGE_PERCENTIL** do tipo texto para o tipo numérico .
+ utilizamos o LabelEncoder do sklearn, para transformar a variável categóriga AGE_PERCENTIL do tipo texto para o tipo numérico .
  
    #### - 4.3. Separação dos dados
  
- Separamos os dados em **treino** e **teste** com o médoto `train_test_split` do sklearn para o desenvolvimento do modelo preditivo.
+ Separamos os dados em treino e teste com o médoto `train_test_split` do sklearn para o desenvolvimento do modelo preditivo.
  
    #### - 4.4. Treinamento do Modelo
- 
+
+Treinamos e testamos com 5 algoritmos de classificação: Regressão Logística (LogisticRegression), KNN (KNeighborsClassifier), Foresta Aleatória (RandomForestClassifier), Árvore de Decisão (DecisionTreeClassifier) e o Gradient Boosting (XGBClassifier). e analisamos as métricas, comparamos e analisamos qual o modelo trouxe melhores resultados para resolver o nosso problema. 
  
 ### - 5. Conclusões
+ 
+ 
