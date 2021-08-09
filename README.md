@@ -39,6 +39,8 @@ Conforme falado anteriormente, o dataset que utilizamos para desenvolvimento do 
 
 ## 3. Analise Exploratória
 ### Carregamento dos Dados
+Para analisamos  algumas informações estatísticas dos nossos dados, como <b> frequência (count), média (mean), desvio padrão (std), max, min e quartis</b>, utilizamos o método ```describe``` do pandas em nosso dataframe. Por padrão, o método retorna informações dos dados contínuous, por este motivo que não observamos informações dos dados categóricos, como o <b> AGE_PERCENTIL</b>.
+
    #### - 3.3. Preenchendo Dados Faltantes
    #### - 3.4. Levantamento de Hipóteses
    #### - 3.5. Análise
