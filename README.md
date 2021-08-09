@@ -43,9 +43,11 @@ Analisamos  algumas informações estatísticas dos nossos dados, como <b> frequ
 
    #### - 3.3. Preenchendo Dados Faltantes
    
-   Utilizamos   ```heatmap``` do <b>Seaborn</b> e visualizamos os dados faltantes. 
+Utilizamos   ```heatmap``` do <b>Seaborn</b> e visualizamos os dados faltantes. Para resolver esse problema,  tratamos os dados contínuos já separados com `fillna` com   parâmetro method `bfill`, onde ele preenche a medida vazia anterior repetindo a medida posterior, e `ffill`, onde ele peenche a medida vazia posterior repetindo a medida anterior.
    
    #### - 3.4. Levantamento de Hipóteses
+   
+   
    #### - 3.5. Análise
    #### - 3.6. Seleção de Dados para Previsão
    #### - 3.7. Análise (Parte 2)
