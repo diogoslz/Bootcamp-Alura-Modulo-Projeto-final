@@ -38,7 +38,7 @@ Conforme falado anteriormente, o dataset que utilizamos para desenvolvimento do 
 - Sinais vitais (06 colunas)
 
 ## 3. Analise Exploratória
-### Carregamento dos Dados
+   #### - 3.2. Carregamento dos Dados
 Analisamos  algumas informações estatísticas dos nossos dados, como <b> frequência (count), média (mean), desvio padrão (std), max, min e quartis</b>.
 
    #### - 3.3. Preenchendo Dados Faltantes
