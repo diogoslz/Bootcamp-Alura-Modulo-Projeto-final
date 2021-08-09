@@ -63,7 +63,7 @@ Levantamos  algumas hipóteses de como a evolução do quadro clínico de pacien
  
    #### - 3.6. Seleção de Dados para Previsão
 
-Nesta etapa, removemos todos os pacientes que foram **direto para a UTI na primeira janela**. Para isso, selecionamos a coluna **PATIENTE_VISIT_IDENTIFIER** e selecionamos somente os IDs dos pacientes na **janela 0-2** e **ICU igual a 1**.
+Nesta etapa, removemos todos os pacientes que foram **direto para a UTI na primeira janela**. Em seguida, criamos um método para buscar em **todas as janelas de que o paciente foi para a UTI e preenchemos com esta informação a linha da primeira **janela**. Como isso, selecionamos somente os IDs dos pacientes na **janela 0-2** e **ICU igual a 1**.
  
    #### - 3.7. Análise (Parte 2)
  
@@ -79,6 +79,14 @@ Nesta etapa, removemos todos os pacientes que foram **direto para a UTI na prime
  Importamos as bibliotecas necessário para desenvolvido do modelo preditivo.
  
    #### - 4.2. Engenharia de recursos
+ 
+ utilizamos o **LabelEncoder do sklearn**, para transformar a variável categóriga **AGE_PERCENTIL** do tipo texto para o tipo numérico .
+ 
    #### - 4.3. Separação dos dados
+ 
+ Separamos os dados em **treino** e **teste** com o médoto `train_test_split` do sklearn para o desenvolvimento do modelo preditivo.
+ 
    #### - 4.4. Treinamento do Modelo
+ 
+ 
 ### - 5. Conclusões
