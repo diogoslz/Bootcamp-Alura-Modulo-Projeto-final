@@ -42,6 +42,9 @@ Conforme falado anteriormente, o dataset que utilizamos para desenvolvimento do 
 Analisamos  algumas informações estatísticas dos nossos dados, como <b> frequência (count), média (mean), desvio padrão (std), max, min e quartis</b>.
 
    #### - 3.3. Preenchendo Dados Faltantes
+   
+   Utilizamos   ```heatmap``` do <b>Seaborn</b> e visualizamos os dados faltantes. 
+   
    #### - 3.4. Levantamento de Hipóteses
    #### - 3.5. Análise
    #### - 3.6. Seleção de Dados para Previsão
