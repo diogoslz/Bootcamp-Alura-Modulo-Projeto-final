@@ -75,6 +75,9 @@ Nesta etapa, removemos todos os pacientes que foram **direto para a UTI na prime
  
 ### - 4. Desenvolvimento de Modelo Preditivo
    #### - 4.1. Importando bibliotecas
+ 
+ Importamos as bibliotecas necessário para desenvolvido do modelo preditivo.
+ 
    #### - 4.2. Engenharia de recursos
    #### - 4.3. Separação dos dados
    #### - 4.4. Treinamento do Modelo
