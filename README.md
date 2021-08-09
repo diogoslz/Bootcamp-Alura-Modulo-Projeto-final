@@ -111,7 +111,7 @@ Reduzimos o máximo do efeito da aletóriedade da divisão dos dados pelo métod
 - [Seaborn](https://seaborn.pydata.org/);
 - [Numpy](https://numpy.org/);
 - [Pandas](https://pandas.pydata.org/);
-- [Matplotlib](https://matplotlib.org/](https://matplotlib.org/)
+- [Matplotlib](https://matplotlib.org/)
 - [Marcos Silva](https://medium.com/data-hackers/matriz-de-confus%C3%A3o-e-auc-roc-f7e446dca107)
 - [Eduardo Braz Rabello](https://medium.com/@edubrazrabello/cross-validation-avaliando-seu-modelo-de-machine-learning-1fb70df15b78)
 - [Machine Learning parte 2: Otimização com exploração aleatória](https://www.alura.com.br/conteudo/machine-learning-otimizacao-com-exploracao-aleatoria?gclid=CjwKCAjw3riIBhAwEiwAzD3Tic0g7xBSK5NKLAFrQhfocCewKdZ9uVx3m3TrjvUkfHlc2SjcsoVEMRoCVTAQAvD_BwE)
