@@ -109,8 +109,8 @@ Reduzimos o máximo do efeito da aletóriedade da divisão dos dados pelo métod
 - [Bootcamp Data Science Aplicada](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas);
 - [Storytelling with Data](https://www.storytellingwithdata.com/);
 - [Seaborn](https://seaborn.pydata.org/);
-- [Numpy](https://numpy.org/](https://numpy.org/);
-- [Pandas](https://pandas.pydata.org/](https://pandas.pydata.org/);
+- [Numpy](https://numpy.org/);
+- [Pandas](https://pandas.pydata.org/);
 - [Matplotlib](https://matplotlib.org/](https://matplotlib.org/)
 - [Marcos Silva](https://medium.com/data-hackers/matriz-de-confus%C3%A3o-e-auc-roc-f7e446dca107)
 - [Eduardo Braz Rabello](https://medium.com/@edubrazrabello/cross-validation-avaliando-seu-modelo-de-machine-learning-1fb70df15b78)
