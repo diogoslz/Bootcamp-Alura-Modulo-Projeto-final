@@ -93,3 +93,29 @@ Reduzimos o máximo do efeito da aletóriedade da divisão dos dados pelo métod
 ### - 5. Conclusões
  
  Escolhemos o melhor modelo preditivo a partir dos resultados obtidos das métricas durante do desenvolvimento do projeto.
+ 
+### 6. Referências
+ 
+- [Alura](https://www.alura.com.br/);
+- [Regressão Logística](https://matheusfacure.github.io/2017/02/25/regr-log/)
+- [Dinesh Yadav](https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd)
+- [Towards Data Science](https://towardsdatascience.com);
+- [Medium](https://medium.com/);
+- [Amanda Munari Guimarães](https://medium.com/omixdata/estat%C3%ADstica-an%C3%A1lise-de-correla%C3%A7%C3%A3o-usando-python-e-r-d68611511b5a);
+- [Bootcamp Data Science Aplicada](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas);
+- [Storytelling with Data](https://www.storytellingwithdata.com/);
+- [Seaborn](https://seaborn.pydata.org/);
+- [Numpy](https://numpy.org/](https://numpy.org/);
+- [Pandas](https://pandas.pydata.org/](https://pandas.pydata.org/);
+- [Matplotlib](https://matplotlib.org/](https://matplotlib.org/)
+- [Marcos Silva](https://medium.com/data-hackers/matriz-de-confus%C3%A3o-e-auc-roc-f7e446dca107)
+- [Eduardo Braz Rabello](https://medium.com/@edubrazrabello/cross-validation-avaliando-seu-modelo-de-machine-learning-1fb70df15b78)
+- [Machine Learning parte 2: Otimização com exploração aleatória](https://www.alura.com.br/conteudo/machine-learning-otimizacao-com-exploracao-aleatoria?gclid=CjwKCAjw3riIBhAwEiwAzD3Tic0g7xBSK5NKLAFrQhfocCewKdZ9uVx3m3TrjvUkfHlc2SjcsoVEMRoCVTAQAvD_BwE)
+ 
+ ## 7. Contatos
+ 
+ Alguma dica, dúvida ou sugestão? Fique à vontade para contatar:
+
+- https://www.linkedin.com/in/diogo-miranda-de-azevedo-63758425/
+- https://github.com/diogoslz
+- diogonick@gmail.com
