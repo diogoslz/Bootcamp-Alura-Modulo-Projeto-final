@@ -84,7 +84,7 @@ Nesta etapa, removemos todos os pacientes que foram direto para a UTI na primeir
  
    #### - 4.2. Engenharia de recursos
  
- utilizamos o LabelEncoder do sklearn, para transformar a variável categóriga AGE_PERCENTIL do tipo texto para o tipo numérico .
+ utilizamos o LabelEncoder do sklearn, para transformar a variável categórica AGE_PERCENTIL do tipo texto para o tipo numérico .
  
    #### - 4.3. Separação dos dados
  
